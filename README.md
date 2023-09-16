@@ -1,4 +1,4 @@
-## Prject Overview
+## Project Overview
 
 **Description:**
 This project is associated with the Vietnam Discovery application and is responsible for handling all functionalities related to authentication and authorization.
