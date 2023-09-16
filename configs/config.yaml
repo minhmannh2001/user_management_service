@@ -1,0 +1,23 @@
+HOST: 127.0.0.1
+PORT: 8081
+
+SWAGGER_FILE_PATH: swagger/swagger.yaml
+LOGGER_CONFIG_PATH: configs/logger.conf
+
+SQLALCHEMY_DATABASE_URI: postgresql+psycopg2://test:secret@localhost:5433/test?application_name=user_management_service
+
+PUBLIC_KEY: |
+  -----BEGIN PUBLIC KEY-----
+  MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAt+1ueXtNusxvaqgxRRRb
+  NMyXFjPxI+zG6jyRW1CsBH0ZW1EijvoIx5eA/Noi8tdwiRFBkcPfhXHvZdaidYTw
+  fWOtfUzIl+Sg/7BM1sQ9+YfqMhk312D8lC/rLrPmrOQWVpWYz+z1B6bKfG1ZkAvk
+  go0c3I5SichyPYSM1Tl0onXEpbL4giHO5hok4VvPMQb2EfSq8UD+mxI2zTHFAP1P
+  tOQcTWdeKC5k+ddfOEAAJayh3tEWuW2nMj2wunk7pVxnYparZFPw6vMNSiQ8rs2x
+  mYnZQhuqZJgMRW/SxbDn/Zl6P1mBjKPNyVoAbu+/Fx41De66cnNXMdjC2LpQ+xrR
+  WpFjoMJEU4KDq37/Ewk4Ee2gBKnyuX23CZbZ/hPiSXczBD8fUJTdzHQUUHJB8YCC
+  AZJnwvhA8Kf+cwI5vjxlVJeMguFqkXK53Cycxn6TXDEju5KiRTkyfAMwYpLnrUGi
+  3zBO3mFClVA2EBaYTQf09WpKjg7DO0+08FH6FTRQHKimWBnTXb2RSme5YAmanY5C
+  giX9Qmn9DwulbUlSB5VujxqESgy1cDTNd7xMEcwWthMIcIojfsfDmuKT41nU6aGO
+  I8lQN6CTEFZIbzKy6WDthiKLLogxLJxB7TTbpq7a0SNRKNv+l8Qpogjd24OKvCCY
+  xWwbB9FRoYZpa/Q9n3DRpMUCAwEAAQ==
+  -----END PUBLIC KEY-----

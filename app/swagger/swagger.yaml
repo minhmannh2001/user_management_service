@@ -1,0 +1,197 @@
+swagger: "2.0"
+info:
+  description: This is the user management service used in the Discover Quest application.
+  version: "1.0.0"
+  title: User Management Service
+  contact:
+    email: nguyenminhmannh2001@gmail.com
+
+schemes:
+  - http
+  - https
+
+basePath: /v1
+
+paths:
+  /users:
+    get:
+      tags:
+        - User
+      summary: Get All Users
+      description: Get a list of all users in the system
+      operationId: get_all_users
+      security:
+        - JWT: []
+      responses:
+        200:
+          description: List of users retrieved successfully
+        401:
+          description: Unauthorized
+      x-swagger-router-controller: app.controllers.user_controller
+  /user:
+    get:
+      tags:
+        - User
+      summary: Get User Profile
+      description: Get the profile information of the authenticated user
+      operationId: get_user
+      security:
+        - JWT: []
+      responses:
+        200:
+          description: User profile retrieved successfully
+        401:
+          description: Unauthorized, user not authenticated
+        404:
+          description: User not found
+      x-swagger-router-controller: app.controllers.user_controller
+    post:
+      tags:
+        - User
+      summary: Create a New User
+      description: Create a new user account
+      operationId: create_user
+      security:
+        - JWT: []
+      consumes:
+        - "application/json"
+      produces:
+        - "application/json"
+      parameters:
+        - in: body
+          name: user_input
+          description: User registration information
+          required: true
+          schema:
+            $ref: "#/definitions/UserInput"
+      responses:
+        201:
+          description: User created successfully
+        400:
+          description: Bad request
+        500:
+          description: Internal server error
+      x-swagger-router-controller: app.controllers.user_controller
+  /users/{user_id}:
+    get:
+      tags:
+        - User
+      summary: Get User Profile by ID
+      description: Get the profile information of a user by their ID
+      operationId: get_user_by_id
+      security:
+        - JWT: []
+      consumes:
+        - "application/json"
+      produces:
+        - "application/json"
+      parameters:
+        - name: user_id
+          in: path
+          description: User ID
+          required: true
+          type: string
+      responses:
+        200:
+          description: User profile retrieved successfully
+        404:
+          description: User not found
+      x-swagger-router-controller: app.controllers.user_controller
+    put:
+      tags:
+        - User
+      summary: Update User Profile
+      description: Update the profile information of the authenticated user.
+      operationId: update_user
+      security:
+        - JWT: []
+      parameters:
+        - name: user_id
+          in: path
+          description: User ID
+          required: true
+          type: string
+        - in: body
+          name: user_data
+          description: Updated user object
+          required: true
+          schema:
+            $ref: "#/definitions/UserData"
+      responses:
+        200:
+          description: User profile updated successfully
+        400:
+          description: Bad request or validation error
+        401:
+          description: Unauthorized, user not authenticated
+        404:
+          description: User not found
+      x-swagger-router-controller: app.controllers.user_controller
+    delete:
+      tags:
+        - User
+      summary: Delete User Profile
+      description: Delete the profile of the authenticated user.
+      operationId: delete_user
+      security:
+        - JWT: []
+      parameters:
+        - name: user_id
+          in: path
+          description: User ID
+          required: true
+          type: integer
+          format: int64
+      responses:
+        204:
+          description: User profile deleted successfully
+        401:
+          description: Unauthorized
+        404:
+          description: User not found
+      x-swagger-router-controller: app.controllers.user_controller
+
+definitions:
+  UserInput:
+    type: object
+    required:
+      - email
+      - username
+      - password
+    properties:
+      email:
+        type: string
+        format: email
+        example: john.doe@example.com
+      username:
+        type: string
+        example: johndoe
+      password:
+        type: string
+        format: password
+        example: secret123
+  UserData:
+    type: object
+    properties:
+      id:
+        type: integer
+        format: int64
+        example: 1
+      username:
+        type: string
+        example: johndoe
+      email:
+        type: string
+        format: email
+        example: john.doe@example.com
+      password:
+        type: string
+        format: password
+        example: secret123
+
+securityDefinitions:
+  JWT:
+    type: apiKey
+    name: Authorization
+    in: header
+    x-apikeyInfoFunc: helpers.utils.decode_token

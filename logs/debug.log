@@ -1,0 +1,421 @@
+2023-08-26 23:14:13,117 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-08-26 23:14:13,119 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-08-26 23:14:13,279 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-08-26 23:14:13,279 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-08-26 23:14:33,443 INFO: 127.0.0.1 - - [26/Aug/2023 23:14:33] "[31m[1mPOST /v1/user HTTP/1.1[0m" 401 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-08-31 01:55:34,553 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-08-31 01:55:34,555 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-08-31 01:55:34,696 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-08-31 01:55:34,696 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 01:57:24,353 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-02 01:57:24,354 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-02 01:57:24,491 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 01:57:24,491 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:17:44,599 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-02 02:17:44,600 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-02 02:17:44,684 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:17:44,685 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:22:36,677 INFO: 127.0.0.1 - - [02/Sep/2023 02:22:36] "[33mGET /v1/users/john.doe@example.com HTTP/1.1[0m" 404 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:23:36,442 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-02 02:23:36,442 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-02 02:23:36,541 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:23:36,541 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:29:01,031 INFO: 127.0.0.1 - - [02/Sep/2023 02:29:01] "GET /v1/users/john.doe@example.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:30:25,309 INFO: 127.0.0.1 - - [02/Sep/2023 02:30:25] "GET /v1/users/john.doe@example.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:30:30,007 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-02 02:30:30,007 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-02 02:30:30,096 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:30:30,096 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:30:44,717 INFO: 127.0.0.1 - - [02/Sep/2023 02:30:44] "GET /v1/users/john.doe@example.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:36:35,782 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-02 02:36:35,782 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-02 02:36:35,866 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:36:35,866 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:37:07,218 ERROR: Exception on /v1/users/john.doe@example.com [GET] [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask/app.py:1744]
+Traceback (most recent call last):
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1965, in _exec_single_context
+    self.dialect.do_execute(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 921, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.InvalidTextRepresentation: invalid input syntax for type integer: "john.doe@example.com"
+LINE 3: WHERE users.user_id = 'john.doe@example.com' OR users.userna...
+                              ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/decorators/decorator.py", line 68, in wrapper
+    response = function(request)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/security/security_handler_factory.py", line 388, in wrapper
+    return function(request)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/decorators/uri_parsing.py", line 149, in wrapper
+    response = function(request)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/decorators/validation.py", line 399, in wrapper
+    return function(request)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/decorators/parameter.py", line 120, in wrapper
+    return function(**kwargs)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask_jwt_extended/view_decorators.py", line 174, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/controllers/user_controller.py", line 54, in get_user_by_id
+    user = User.query.filter(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 2743, in first
+    return self.limit(1)._iter().first()  # type: ignore
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/orm/query.py", line 2842, in _iter
+    result: Union[ScalarResult[_T], Result[_T]] = self.session.execute(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2262, in execute
+    return self._execute_internal(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/orm/session.py", line 2144, in _execute_internal
+    result: Result[Any] = compile_state_cls.orm_execute_statement(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/orm/context.py", line 293, in orm_execute_statement
+    result = conn.execute(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1412, in execute
+    return meth(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/sql/elements.py", line 515, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1635, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1844, in _execute_context
+    return self._exec_single_context(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1984, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 2339, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1965, in _exec_single_context
+    self.dialect.do_execute(
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 921, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.DataError: (psycopg2.errors.InvalidTextRepresentation) invalid input syntax for type integer: "john.doe@example.com"
+LINE 3: WHERE users.user_id = 'john.doe@example.com' OR users.userna...
+                              ^
+
+[SQL: SELECT users.user_id AS users_user_id, users.username AS users_username, users.email AS users_email, users.password_hash AS users_password_hash, users.created_at AS users_created_at, users.updated_at AS users_updated_at 
+FROM users 
+WHERE users.user_id = %(user_id_1)s OR users.username = %(username_1)s OR users.email = %(email_1)s 
+ LIMIT %(param_1)s]
+[parameters: {'user_id_1': 'john.doe@example.com', 'username_1': 'john.doe@example.com', 'email_1': 'john.doe@example.com', 'param_1': 1}]
+(Background on this error at: https://sqlalche.me/e/20/9h9h)
+2023-09-02 02:37:07,250 INFO: 127.0.0.1 - - [02/Sep/2023 02:37:07] "[35m[1mGET /v1/users/john.doe@example.com HTTP/1.1[0m" 500 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:46:30,841 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-02 02:46:30,841 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-02 02:46:30,931 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:46:30,931 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:48:01,347 INFO: 127.0.0.1 - - [02/Sep/2023 02:48:01] "GET /v1/users/john.doe@example.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:53:52,161 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-02 02:53:52,161 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-02 02:53:52,253 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:53:52,253 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:54:29,600 INFO: 127.0.0.1 - - [02/Sep/2023 02:54:29] "[33mGET /v1/users/john.doe@example.comm HTTP/1.1[0m" 404 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:55:48,112 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-02 02:55:48,113 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-02 02:55:48,201 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:55:48,201 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:56:05,369 INFO: 127.0.0.1 - - [02/Sep/2023 02:56:05] "[33mGET /v1/users/john.doe@example.comm HTTP/1.1[0m" 404 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:56:31,176 INFO: 127.0.0.1 - - [02/Sep/2023 02:56:31] "GET /v1/users/john.doe@example.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 02:58:15,564 INFO: 127.0.0.1 - - [02/Sep/2023 02:58:15] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:09:56,420 INFO: 127.0.0.1 - - [02/Sep/2023 03:09:56] "GET /v1/users/john.doe@example.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:12:38,518 INFO: 127.0.0.1 - - [02/Sep/2023 03:12:38] "GET /v1/users/john.doe@example.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:12:58,833 INFO: 127.0.0.1 - - [02/Sep/2023 03:12:58] "[33mGET /v1/users/john.doe@example.comm HTTP/1.1[0m" 404 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:13:21,867 INFO: 127.0.0.1 - - [02/Sep/2023 03:13:21] "[33mGET /v1/users/john.doe@example.comm HTTP/1.1[0m" 404 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:16:18,495 INFO: 127.0.0.1 - - [02/Sep/2023 03:16:18] "[33mGET /v1/users/john.doe@example.comm HTTP/1.1[0m" 404 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:18:26,676 INFO: 127.0.0.1 - - [02/Sep/2023 03:18:26] "[33mGET /v1/users/john.doe@example.comm HTTP/1.1[0m" 404 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:19:12,398 INFO: 127.0.0.1 - - [02/Sep/2023 03:19:12] "GET /v1/users/john.doe@example.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:19:17,384 INFO: 127.0.0.1 - - [02/Sep/2023 03:19:17] "GET /v1/users/john.doe@example.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:19:57,297 INFO: 127.0.0.1 - - [02/Sep/2023 03:19:57] "GET /v1/users/john.doe@example.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:21:20,848 INFO: 127.0.0.1 - - [02/Sep/2023 03:21:20] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:23:37,980 INFO: 127.0.0.1 - - [02/Sep/2023 03:23:37] "[35m[1mPOST /v1/user HTTP/1.1[0m" 201 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:25:00,149 INFO: 127.0.0.1 - - [02/Sep/2023 03:25:00] "[31m[1mPOST /v1/user HTTP/1.1[0m" 409 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:25:51,782 INFO: 127.0.0.1 - - [02/Sep/2023 03:25:51] "[31m[1mPOST /v1/user HTTP/1.1[0m" 409 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:26:15,615 INFO: 127.0.0.1 - - [02/Sep/2023 03:26:15] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-02 03:26:24,887 INFO: 127.0.0.1 - - [02/Sep/2023 03:26:24] "[35m[1mPOST /v1/user HTTP/1.1[0m" 201 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 01:31:40,831 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-03 01:31:40,833 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-03 01:31:40,987 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 01:31:40,987 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 01:39:37,123 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-03 01:39:37,123 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-03 01:39:37,232 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 01:39:37,232 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 01:51:59,064 INFO: 127.0.0.1 - - [03/Sep/2023 01:51:59] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 16:58:16,602 INFO: 127.0.0.1 - - [03/Sep/2023 16:58:16] "[31m[1mPOST /v1/user HTTP/1.1[0m" 409 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 16:58:22,630 INFO: 127.0.0.1 - - [03/Sep/2023 16:58:22] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 17:24:10,915 INFO: 127.0.0.1 - - [03/Sep/2023 17:24:10] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 17:28:12,378 INFO: 127.0.0.1 - - [03/Sep/2023 17:28:12] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 17:38:03,245 INFO: 127.0.0.1 - - [03/Sep/2023 17:38:03] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 18:08:48,083 INFO: 127.0.0.1 - - [03/Sep/2023 18:08:48] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 18:09:00,450 INFO: 127.0.0.1 - - [03/Sep/2023 18:09:00] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 19:05:09,711 INFO: 127.0.0.1 - - [03/Sep/2023 19:05:09] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 19:05:35,763 INFO: 127.0.0.1 - - [03/Sep/2023 19:05:35] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 20:30:27,483 INFO: 127.0.0.1 - - [03/Sep/2023 20:30:27] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 22:15:53,694 INFO: 127.0.0.1 - - [03/Sep/2023 22:15:53] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 22:20:45,848 INFO: 127.0.0.1 - - [03/Sep/2023 22:20:45] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 22:22:02,295 INFO: 127.0.0.1 - - [03/Sep/2023 22:22:02] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 22:23:34,226 INFO: 127.0.0.1 - - [03/Sep/2023 22:23:34] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 22:27:07,608 INFO: 127.0.0.1 - - [03/Sep/2023 22:27:07] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 22:27:15,058 INFO: 127.0.0.1 - - [03/Sep/2023 22:27:15] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 22:27:35,823 INFO: 127.0.0.1 - - [03/Sep/2023 22:27:35] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 22:33:15,763 INFO: 127.0.0.1 - - [03/Sep/2023 22:33:15] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 22:34:19,205 INFO: 127.0.0.1 - - [03/Sep/2023 22:34:19] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 22:35:16,817 INFO: 127.0.0.1 - - [03/Sep/2023 22:35:16] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:02:04,633 INFO: 127.0.0.1 - - [03/Sep/2023 23:02:04] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:06:44,534 INFO: 127.0.0.1 - - [03/Sep/2023 23:06:44] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:06:57,997 INFO: 127.0.0.1 - - [03/Sep/2023 23:06:57] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:06:59,680 INFO: 127.0.0.1 - - [03/Sep/2023 23:06:59] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:00,919 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:00] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:02,300 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:02] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:03,451 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:03] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:04,227 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:04] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:04,992 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:04] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:05,792 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:05] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:06,511 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:06] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:07,202 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:07] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:07,868 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:07] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:08,858 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:08] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:09,660 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:09] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:10,380 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:10] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:11,129 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:11] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:11,830 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:11] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:12,569 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:12] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:13,235 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:13] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:13,880 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:13] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:47,067 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:47] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:07:59,385 INFO: 127.0.0.1 - - [03/Sep/2023 23:07:59] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:00,780 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:00] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:01,849 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:01] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:02,627 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:02] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:03,419 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:03] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:04,449 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:04] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:05,296 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:05] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:06,031 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:06] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:06,986 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:06] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:07,695 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:07] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:08,359 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:08] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:09,016 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:09] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:09,688 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:09] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:10,354 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:10] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:11,018 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:11] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:11,729 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:11] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:12,335 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:12] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:13,065 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:13] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:13,764 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:13] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:14,474 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:14] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:15,344 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:15] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:08:16,437 INFO: 127.0.0.1 - - [03/Sep/2023 23:08:16] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:19:35,608 INFO: 127.0.0.1 - - [03/Sep/2023 23:19:35] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:19:45,078 INFO: 127.0.0.1 - - [03/Sep/2023 23:19:45] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:19:46,642 INFO: 127.0.0.1 - - [03/Sep/2023 23:19:46] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:19:47,513 INFO: 127.0.0.1 - - [03/Sep/2023 23:19:47] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:19:48,281 INFO: 127.0.0.1 - - [03/Sep/2023 23:19:48] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:19:48,918 INFO: 127.0.0.1 - - [03/Sep/2023 23:19:48] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:19:49,466 INFO: 127.0.0.1 - - [03/Sep/2023 23:19:49] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:19:50,053 INFO: 127.0.0.1 - - [03/Sep/2023 23:19:50] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:19:50,713 INFO: 127.0.0.1 - - [03/Sep/2023 23:19:50] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:25:39,573 INFO: 127.0.0.1 - - [03/Sep/2023 23:25:39] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:32:02,994 INFO: 127.0.0.1 - - [03/Sep/2023 23:32:02] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-03 23:33:01,664 INFO: 127.0.0.1 - - [03/Sep/2023 23:33:01] "GET /v1/users/johndoe HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 00:40:41,875 INFO: 127.0.0.1 - - [04/Sep/2023 00:40:41] "[33mGET /v1/users/nguyenminhmannh20012@gmail.com HTTP/1.1[0m" 404 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 01:14:15,166 INFO: 127.0.0.1 - - [04/Sep/2023 01:14:15] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 01:18:20,977 INFO: 127.0.0.1 - - [04/Sep/2023 01:18:20] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 01:46:46,727 INFO: 127.0.0.1 - - [04/Sep/2023 01:46:46] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 01:46:55,188 INFO: 127.0.0.1 - - [04/Sep/2023 01:46:55] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 01:51:28,223 INFO: 127.0.0.1 - - [04/Sep/2023 01:51:28] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 07:47:20,695 INFO: 127.0.0.1 - - [04/Sep/2023 07:47:20] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:16:32,058 INFO: 127.0.0.1 - - [04/Sep/2023 08:16:32] "[31m[1mPUT /v1/users/minhmannh2001 HTTP/1.1[0m" 405 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:17:39,803 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-04 08:17:39,803 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-04 08:17:39,955 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:17:39,955 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:18:29,446 INFO: 127.0.0.1 - - [04/Sep/2023 08:18:29] "[35m[1mPUT /v1/users/minhmannh2001 HTTP/1.1[0m" 204 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:19:31,941 INFO: 127.0.0.1 - - [04/Sep/2023 08:19:31] "[35m[1mPUT /v1/users/minhmannh2001 HTTP/1.1[0m" 204 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:20:52,030 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-04 08:20:52,030 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-04 08:20:52,143 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:20:52,144 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:21:04,673 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-04 08:21:04,673 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-04 08:21:04,788 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:21:04,788 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:30:21,324 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-04 08:30:21,324 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-04 08:30:21,444 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:30:21,445 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:30:58,694 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-04 08:30:58,694 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-04 08:30:58,808 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:30:58,808 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:31:14,456 ERROR: Exception on /v1/users/minhmannh2001 [PUT] [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask/app.py:1744]
+Traceback (most recent call last):
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask/app.py", line 2529, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask/app.py", line 1825, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask/app.py", line 1823, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask/app.py", line 1799, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/decorators/decorator.py", line 68, in wrapper
+    response = function(request)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/security/security_handler_factory.py", line 388, in wrapper
+    return function(request)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/decorators/uri_parsing.py", line 149, in wrapper
+    response = function(request)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/decorators/validation.py", line 196, in wrapper
+    response = function(request)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/decorators/validation.py", line 399, in wrapper
+    return function(request)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/connexion/decorators/parameter.py", line 120, in wrapper
+    return function(**kwargs)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/flask_jwt_extended/view_decorators.py", line 174, in decorator
+    return current_app.ensure_sync(fn)(*args, **kwargs)
+  File "/home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/controllers/user_controller.py", line 117, in update_user
+    user[key] = value
+TypeError: 'User' object does not support item assignment
+2023-09-04 08:31:14,465 INFO: 127.0.0.1 - - [04/Sep/2023 08:31:14] "[35m[1mPUT /v1/users/minhmannh2001 HTTP/1.1[0m" 500 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:34:36,516 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-04 08:34:36,516 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-04 08:34:36,632 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:34:36,632 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:34:48,320 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-04 08:34:48,321 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-04 08:34:48,439 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:34:48,440 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:37:31,404 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-04 08:37:31,404 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-04 08:37:31,490 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:37:31,491 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:39:02,036 INFO: 127.0.0.1 - - [04/Sep/2023 08:39:02] "PUT /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:39:32,358 INFO: 127.0.0.1 - - [04/Sep/2023 08:39:32] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:50:14,952 INFO: 127.0.0.1 - - [04/Sep/2023 08:50:14] "PUT /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-04 08:50:33,631 INFO: 127.0.0.1 - - [04/Sep/2023 08:50:33] "PUT /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-05 21:58:13,061 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-05 21:58:13,062 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-05 21:58:13,294 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-05 21:58:13,294 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-05 22:57:22,541 INFO: 127.0.0.1 - - [05/Sep/2023 22:57:22] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-09 22:11:51,245 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-09 22:11:51,247 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:11:51,398 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-09 22:11:51,398 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-09 22:13:48,616 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-09 22:13:48,616 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:23:10,437 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:67]
+2023-09-09 22:23:10,437 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:39:43,302 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:39:43,303 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:39:43,357 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-09 22:39:43,357 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-09 22:39:58,227 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:39:58,227 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:40:15,760 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:40:15,760 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:41:27,372 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:41:27,373 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:42:32,141 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:42:32,141 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:44:27,391 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:44:27,391 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:44:27,453 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-09 22:44:27,454 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-09 22:44:33,260 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:44:33,261 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:44:56,193 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-09 22:44:56,193 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-09 22:45:05,654 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:45:05,654 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:46:03,556 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:46:03,556 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:46:47,571 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:46:47,571 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:46:54,151 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:46:54,154 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:49:19,120 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:49:19,121 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:50:49,761 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:50:49,764 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:56:35,361 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:56:35,362 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:57:37,301 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:57:37,302 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:58:17,143 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:58:17,143 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 22:58:56,780 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 22:58:56,781 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 23:01:04,843 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 23:01:04,844 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-09 23:01:25,436 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-09 23:01:25,436 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-10 02:03:37,904 INFO: 127.0.0.1 - - [10/Sep/2023 02:03:37] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 02:03:56,323 INFO: 127.0.0.1 - - [10/Sep/2023 02:03:56] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 02:05:54,600 INFO: 127.0.0.1 - - [10/Sep/2023 02:05:54] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 02:15:58,983 INFO: 127.0.0.1 - - [10/Sep/2023 02:15:58] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 02:17:09,862 INFO: 127.0.0.1 - - [10/Sep/2023 02:17:09] "PUT /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 02:53:01,338 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-10 02:53:01,339 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-10 02:53:01,413 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 02:53:01,413 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 02:55:20,729 INFO: 127.0.0.1 - - [10/Sep/2023 02:55:20] "PUT /v1/users/minhmannh2002 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:08:45,353 INFO: 127.0.0.1 - - [10/Sep/2023 03:08:45] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:09:14,870 INFO: 127.0.0.1 - - [10/Sep/2023 03:09:14] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:10:03,907 INFO: 127.0.0.1 - - [10/Sep/2023 03:10:03] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:10:28,842 INFO: 127.0.0.1 - - [10/Sep/2023 03:10:28] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:10:59,403 INFO: 127.0.0.1 - - [10/Sep/2023 03:10:59] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:11:05,810 INFO: 127.0.0.1 - - [10/Sep/2023 03:11:05] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:12:38,569 INFO: 127.0.0.1 - - [10/Sep/2023 03:12:38] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:12:41,537 INFO: 127.0.0.1 - - [10/Sep/2023 03:12:41] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:14:56,195 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-10 03:14:56,195 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-10 03:14:56,252 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8081 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:14:56,252 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:15:05,440 INFO: 127.0.0.1 - - [10/Sep/2023 03:15:05] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:15:11,580 INFO: 127.0.0.1 - - [10/Sep/2023 03:15:11] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:18:06,297 INFO: 127.0.0.1 - - [10/Sep/2023 03:18:06] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:18:06,324 INFO: 127.0.0.1 - - [10/Sep/2023 03:18:06] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:22:43,563 INFO: 127.0.0.1 - - [10/Sep/2023 03:22:43] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:23:03,648 INFO: 127.0.0.1 - - [10/Sep/2023 03:23:03] "GET /v1/users/nguyenminhmannh2001@gmail.com HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:23:44,602 INFO: 127.0.0.1 - - [10/Sep/2023 03:23:44] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:28:12,493 INFO: 127.0.0.1 - - [10/Sep/2023 03:28:12] "GET /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-10 03:28:58,000 INFO: 127.0.0.1 - - [10/Sep/2023 03:28:57] "PUT /v1/users/minhmannh2001 HTTP/1.1" 200 - [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-16 15:08:24,226 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-16 15:08:24,227 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-16 15:09:01,982 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-16 15:09:01,983 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-16 15:10:04,529 ERROR: Start logging API services at the error level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:68]
+2023-09-16 15:10:04,529 DEBUG: Start logging API services at the debug level. [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/app/__init__.py:69]
+2023-09-16 15:10:04,555 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
+2023-09-16 15:10:04,557 INFO: [33mPress CTRL+C to quit[0m [in /home/minhmannh2001/Documents/CodeSpace/discover_quest/user_management_service/venv/lib/python3.8/site-packages/werkzeug/_internal.py:224]
